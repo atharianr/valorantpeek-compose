@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Valorant Peek - Jetpack Compose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profile_name">Atharian Rahmadani</string>
+    <string name="profile_email">atharianrahmadani@gmail.com</string>
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="favorite_agents">Favorite Agents</string>
+    <string name="favorite">Favorite</string>
+</resources>
